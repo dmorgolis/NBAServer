@@ -6,8 +6,7 @@
           "name": "Boston Celtics",
           "site": "https://www.nba.com/celtics/",
           "logoimg": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg",
-          "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/BOS96.png"
-          
+          "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/BOS96.png"
         },
 
         {
@@ -16,8 +15,7 @@
             "name": "New York Knicks",
             "site": "https://www.nba.com/knicks/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/NYK96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/NYK96.png"
         },
 
         {
@@ -26,8 +24,7 @@
             "name": "Brooklyn Nets",
             "site": "https://www.nba.com/nets/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/BNETS96.png"
-            
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/BNETS96.png"
         },
         
         {
@@ -36,8 +33,7 @@
             "name": "Philadelphia 76ers",
             "site": "https://www.nba.com/sixers/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/FIL96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/FIL96.png"        
         },
 
         {
@@ -46,7 +42,7 @@
             "name": "Toronto Raptors",
             "site": "https://www.nba.com/raptors/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/TOR96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/TOR96.png"
         },
         
         {
@@ -55,8 +51,8 @@
             "name": "Chicago Bulls",
             "site": "https://www.nba.com/bulls/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/CHIK96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/CHIK96.png"
+
         },
 
         {
@@ -65,8 +61,8 @@
             "name": "Cleveland Cavaliers",
             "site": "https://www.nba.com/cavaliers/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/KLIV96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/KLIV96.png"
+
         },
         
         {
@@ -75,8 +71,8 @@
             "name": "Detroit Pistons",
             "site": "https://www.nba.com/pistons/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/DET96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/DET96.png"
+
         },
 
         {
@@ -85,8 +81,8 @@
             "name": "Indiana Pacers",
             "site": "https://www.nba.com/pacers/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/IND96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/IND96.png"
+
         },
         
         {
@@ -95,8 +91,8 @@
             "name": "Milwaukee Bucks",
             "site": "https://www.nba.com/bucks/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/MIL96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/MIL96.png"
+
         },
 
         {
@@ -105,8 +101,8 @@
             "name": "Atlanta Hawks",
             "site": "https://www.nba.com/hawks/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/ATL96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/ATL96.png"
+
         },
         
         {
@@ -115,8 +111,8 @@
             "name": "Charlotte Hornets",
             "site": "https://www.nba.com/hornets/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/SHR96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/SHR96.png"
+
         },
 
         {
@@ -125,8 +121,8 @@
             "name": "Miami Heat",
             "site": "https://www.nba.com/heat/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/MIAMI600.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/MIAMI600.png"
+
         },
         
         {
@@ -135,8 +131,8 @@
             "name": "Orlando Magic",
             "site": "https://www.nba.com/magic/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/MEG96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/MEG96.png"
+
         },
 
         {
@@ -145,8 +141,8 @@
             "name": "Washington Wizards",
             "site": "https://www.nba.com/wizards/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/WOS96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/WOS96.png"
+
         },
         
         {
@@ -155,8 +151,8 @@
             "name": "Denver Nuggets",
             "site": "https://www.nba.com/nuggets/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/DEN96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/DEN96.png"
+
         },
 
         {
@@ -165,7 +161,7 @@
             "name": "Minnesota Timberwolves",
             "site": "https://www.nba.com/timberwolves/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/MIN96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/MIN96.png"
 
         },
         
@@ -175,7 +171,8 @@
             "name": "Oklahoma City Thunder",
             "site": "https://www.nba.com/thunder/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/OKS96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/OKS96.png"
+
          
         },
 
@@ -185,7 +182,8 @@
             "name": "Portland Trail Blazers",
             "site": "https://www.nba.com/blazers/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/POR96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/POR96.png"
+
          
         },
         
@@ -195,8 +193,8 @@
             "name": "Utah Jazz",
             "site": "https://www.nba.com/jazz/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/UTAJ96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/UTAJ96.png"
+
         },
 
         {
@@ -205,7 +203,8 @@
             "name": "Golden State Warriors",
             "site": "https://www.nba.com/warriors/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/GOLD96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/GOLD96.png"
+
          
         },
         
@@ -215,7 +214,8 @@
             "name": "LA Clippers",
             "site": "https://www.nba.com/clippers/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/CLIP96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/CLIP96.png"
+
          
         },
 
@@ -225,7 +225,8 @@
             "name": "Los Angeles Lakers",
             "site": "https://www.nba.com/lakers/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/LEKERS96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/LEKERS96.png"
+
          
         },
         
@@ -235,7 +236,8 @@
             "name": "Phoenix Suns",
             "site": "https://www.nba.com/suns/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/FSUNS96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/FSUNS96.png"
+
          
         },
 
@@ -245,7 +247,8 @@
             "name": "Sacramento Kings",
             "site": "https://www.nba.com/kings/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/SKINGS96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/SKINGS96.png"
+
          
         },
         
@@ -256,7 +259,8 @@
             "name": "Dallas Mavericks",
             "site": "https://www.nba.com/mavericks/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/DAL96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/DAL96.png"
+
          
         },
 
@@ -266,7 +270,8 @@
             "name": "Houston Rockets",
             "site": "https://www.nba.com/rockets/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/UST96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/UST96.png"
+
          
         },
         
@@ -276,7 +281,8 @@
             "name": "Memphis Grizzlies",
             "site": "https://www.nba.com/grizzlies/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/MEM96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/MEM96.png"
+
          
         },
 
@@ -286,8 +292,7 @@
             "name": "New Orleans Pelicans",
             "site": "https://www.nba.com/pelicans/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/NORL96.png"
-         
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/NORL96.png"
         },
         
         {
@@ -296,7 +301,8 @@
             "name": "San Antonio Spurs",
             "site": "https://www.nba.com/spurs/",
             "logoimg": "https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg",
-            "imgs": "https://github.com/dmorgolis/NBAFOTO/blob/main/SASP96.png"
+            "imgs": "https://raw.githubusercontent.com/dmorgolis/NBAFOTO/main/SASP96.png"
+
          
         }
 
